@@ -4,27 +4,20 @@ En este módulo exploraremos algunas de las bibliotecas más fundamentales en Py
 
 ### Numpy
 
-- **Funcionalidad**: 
-    - Arrays (Operaciones matriciales)
-    - Funciones matemáticas y cálculos numéricos de ingeniería
-    - Procesamiento de señales e imágenes (explicación conceptual introductoria).
+- Arrays (Operaciones matriciales)
+- Funciones matemáticas y cálculos numéricos de ingeniería
+- Procesamiento de señales e imágenes (explicación conceptual introductoria).
 
 ### Matplotlib
-
-- **Funcionalidad**:
-    - Creación de gráficos (lineal, barras, dispersión, etc)
-    - Interpolación.
+- Creación de gráficos (lineal, barras, dispersión, etc)
+- Interpolación.
 
 ### Seaborn
-
-- **Funcionalidad**:
-    - Permite personalizar y mejorar visualmente los gráficos creados con Matplotlib.
+- Permite personalizar y mejorar visualmente los gráficos creados con Matplotlib.
 
 ### Pandas
-
-- **Funcionalidad**:
-    - Creación de base de datos
-    - Operaciones sobre la base de datos (filtrado, agregación, y manipulación de índices, etc.)
+- Creación de base de datos
+- Operaciones sobre la base de datos (filtrado, agregación, y manipulación de índices, etc.)
 
 ## Más librerías:
 Estas librerías se explicarán de forma teórica, ya que se profundizará más en módulos orientados a su área correspondiente
