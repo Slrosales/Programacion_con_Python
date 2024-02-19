@@ -1,6 +1,6 @@
 # Módulo 2: Librerías más usadas (Introducción)
 
-En este curso exploraremos algunas de las bibliotecas más fundamentales en Python para análisis de datos y visualización. Una vez que los estudiantes comprendan cómo funcionan, podrán investigar más y aplicarlas en áreas específicas de su interés.
+En este módulo exploraremos algunas de las bibliotecas más fundamentales en Python para análisis de datos y visualización. Una vez que los estudiantes comprendan cómo funcionan, podrán investigar más y aplicarlas en áreas específicas de su interés.
 
 ### Numpy
 
