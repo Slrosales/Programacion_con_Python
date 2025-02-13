@@ -21,8 +21,9 @@ El propósito principal de este taller es brindar una base sólida en programaci
 
 - **Módulo 0**: Introducción al curso
 - **Módulo 1**: Introducción a Python Nativo
-- **Módulo 2**: Análisis de Datos
-- **Módulo 3**: Cálculos Científicos
+- **Módulo 4**: Interfaces Gráficas
+- **Módulo 3**: Análisis de Datos
+- **Módulo 4**: Cálculos Científicos
 - Más módulos en proceso...
 
 ---
